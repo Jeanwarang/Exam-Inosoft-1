@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    width: 500px;
+    height: 400px;
+    background-color: salmon;
+    border: 2px solid black;
+    margin: 0 auto;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+}
+h2 {
+    text-align: center;
+}
+p {
+    padding: 10px;
+}
+span {
+    color: blue;
+}
